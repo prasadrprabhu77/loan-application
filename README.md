@@ -81,6 +81,9 @@ EMI calculation.
     cd loan-app
     ```
 
+    ## Live Demo
+    Chaeck this link to view: [loan-application-omega.vercel.app]
+
 2.  Install dependencies:
 
     ``` bash
