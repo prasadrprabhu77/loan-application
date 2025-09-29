@@ -84,6 +84,9 @@ EMI calculation.
     ## Live Demo
     Chaeck this link to view: [loan-application-omega.vercel.app]
 
+    ## Presentation Link
+    https://youtu.be/WEyUTTRTBVo
+
 2.  Install dependencies:
 
     ``` bash
